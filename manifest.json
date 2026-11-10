@@ -1,0 +1,12 @@
+{
+  "payload": {
+    "schema": 1,
+    "version": "0.4.7",
+    "platform": "windows-x64",
+    "filename": "CFCounting-0.4.7-windows-x64-setup.exe",
+    "url": "https://github.com/UDMSTD/CF-Counting-Releases/releases/download/v0.4.7/CFCounting-0.4.7-windows-x64-setup.exe",
+    "size": 67130878,
+    "sha256": "31c91572ef8d10f1f14fed12e71ac428b47e59a162196a102b9266d35c98a164"
+  },
+  "signature": "csRWKvZhegBAa2Li74+N9b6RzjRC0+KrEAEiuTfdck6fh3U/7z2rbWTmJBfgWmimbcSZHp7VmC4WsljINzdpCA=="
+}
